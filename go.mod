@@ -11,9 +11,8 @@ require (
 )
 
 require (
-	github.com/golang-jwt/jwt/v4 v4.5.0 // indirect
+	github.com/kr/pretty v0.2.1 // indirect
 	golang.org/x/sys v0.7.0 // indirect
-	gopkg.in/check.v1 v1.0.0-20201130134442-10cb98267c6c // indirect
 )
 
 replace github.com/jing332/tts-server-go v0.1.9 => github.com/charliecen/tts-server-go v0.2.0
