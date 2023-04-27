@@ -16,4 +16,4 @@ require (
 	gopkg.in/check.v1 v1.0.0-20201130134442-10cb98267c6c // indirect
 )
 
-replace github.com/jing332/tts-server-go v0.1.9 => github.com/charliecen/tts-server-go v0.1.9
+replace github.com/jing332/tts-server-go v0.1.9 => github.com/charliecen/tts-server-go v0.2.0
